@@ -14,7 +14,7 @@ import { RowItem, RowSeparator } from "../components/RowItem";
 export default ({navigation}) => {
   return (
     <SafeAreaView>
-      <text>The strike works but America is sadly destroyed. You win!</text>
+      <text>The strike works because America is the best!</text>
     </SafeAreaView>
   );
 };
